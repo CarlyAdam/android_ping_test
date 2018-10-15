@@ -1,8 +1,8 @@
-# Laravel Login Scaffold
+# Android Ping Test Example
 
-Android Ping Text Example
+Simple Android Ping Test Example
 
-### Credits
+### Thanks to
 ```
 * [Spot Dialog](https://github.com/d-max/spots-dialog) 
 ```
