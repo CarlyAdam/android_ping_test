@@ -2,10 +2,10 @@
 
 Simple Android Ping Test Example
 
-### Thanks to
-```
-* [Spot Dialog](https://github.com/d-max/spots-dialog) 
-```
+## Built with
+
+*- [Spot Dialog](https://github.com/d-max/spots-dialog) - [Licence](https://opensource.org/licenses/MIT) 
+
 
 Enjoy it ;)
 
